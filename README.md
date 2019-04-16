@@ -1,2 +1,2 @@
 # socialNetworkFeed
-Full stack social network feed made with Python and SQLite3.
+Social network feed made with Python and SQLite3.
